@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 1000px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 200px;
+    background-color: #ddd;
+    text-align: center;
+    /* color: #fff; */
+    line-height: 130px;
+    cursor: pointer;
+}
+
+.blue {
+    background-color: rgba(150, 248, 255, 0.5);
+    /* height: 100%;
+    width: 100%; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+/* .scaleX {
+    transform: scaleX(1);
+} */
+
+.scaleX:hover {
+    transform: scaleX(1.5);
+    transition: transform 0.5s ease;
+}
+
+.scaleY:hover {
+    transform: scaleY(1.5);
+    transition: transform 0.5s ease;
+}
+
+.scale:hover {
+    transform: scale(1.5);
+    transition: transform 0.5s ease;
+}
+
+.rotateX:hover {
+    transform: rotateX(55deg);
+    transition: transform 0.5s ease;
+}
+
+.rotateY:hover {
+    transform: rotateY(55deg);
+    transition: transform 0.5s ease;
+}
+
+.rotateZ:hover {
+    transform: rotateZ(55deg) rotateX(40deg) rotateY(40deg);
+    transition: transform 0.5s ease;
+}
+
+.rotate:hover {
+    transform: rotate(360deg);
+    transition: transform 1s ease;
+}
+
+.translateX:hover {
+    transform: translateX(20%);
+    transition: transform 0.5s ease;
+}
+
+.translateY:hover {
+    transform: translateY(20%);
+    transition: transform 0.5s ease;
+}
+
+.translate:hover {
+    transform: translate(20%, 20%);
+    transition: transform 0.5s ease;
+}
+
+.skewX:hover {
+    transform: skewX(40deg);
+    transition: transform 0.5s ease;
+}
+
+.skewY:hover {
+    transform: skewY(40deg);
+    transition: transform 0.5s ease;
+}
