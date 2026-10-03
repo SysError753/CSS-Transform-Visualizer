@@ -36,9 +36,8 @@ Hover over each box to see the corresponding transformation in action.
 ```text
 CSS-Transform-Playground/
 │
-├── index.html
-├── style.css
-└── README.md
+├── CSS Transform.html
+└── style.css
 ```
 
 ## 🚀 How to Run
