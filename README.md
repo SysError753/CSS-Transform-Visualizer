@@ -1,4 +1,4 @@
-# 🎨 CSS Transform Playground
+# 🎨 CSS Transform Visualizer
 
 A small interactive project built with **HTML and CSS** to visually demonstrate different CSS `transform` properties.
 
@@ -46,7 +46,7 @@ CSS-Transform-Playground/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CSS-Transform-Playground.git
+https://github.com/SysError753/CSS-Transform-Visualizer.git
 ```
 
 2. Open the project folder.
