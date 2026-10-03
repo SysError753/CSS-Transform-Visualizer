@@ -34,7 +34,7 @@ Hover over each box to see the corresponding transformation in action.
 ## 📂 Project Structure
 
 ```text
-CSS-Transform-Playground/
+CSS-Transform-Visualizer/
 │
 ├── CSS Transform.html
 └── style.css
